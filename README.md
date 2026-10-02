@@ -143,6 +143,7 @@ Jika token sempat ter-commit, segera **buat token baru** di dashboard Fonnte.
 - **[Panduan Pengguna](docs/USER_GUIDE.md)**: cara mencatat, membaca dashboard, instalasi, dan pemecahan masalah.
 - **[Software Requirements Specification](docs/SRS.md)**: kebutuhan fungsional dan non-fungsional, skema data, antarmuka API, serta riwayat versi.
 - **[Dokumentasi Teknis](docs/TECHNICAL.md)**: arsitektur, alur eksekusi, algoritma, generator dashboard, deployment, pengujian, dan panduan pengembangan.
+- ![Dashboard Realisasi Periode](docs/images/realisasi-periode.png)
 
 ## 🗺️ Rencana Pengembangan
 
